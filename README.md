@@ -1,0 +1,2 @@
+# textodehoy
+#como usar git
